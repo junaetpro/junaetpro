@@ -1,21 +1,66 @@
-# Hi there 👋, my name is Junaet
-### I am a Web Developer also WordPress
-![I am a Web Developer also WordPress](https://media.licdn.com/dms/image/v2/D4D16AQFZ2rHXvt2j2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738814306688?e=1746662400&v=beta&t=ustU6YtfkuQ3crcbXQRodp_hqPgAHGxTLm1qSvfhI54)
+![Banner](www.link_banner)
 
-about me ... details comming soon
+# 👋 Hi, I’m Junaet Islam
 
-Skills: HTML / CSS/ Bootstrap / JavaScript/ React/ PHP/ Mysql/ wordpress/ Python
+🎯 Full Stack Web Developer | 🎓 CSE Graduate | 🔍 Project QA Executive  
+📍 Based in Narayanganj, Dhaka | 📬 junaetpro@gmail.com
 
-- 🔭 I’m currently working on Fiver Market Place 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: junaetpro@gmal.com 
+---
 
+## 💼 Professional Summary
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junaetpro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junaetislam//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/junaetpro/)  
+I'm a passionate and creative Full Stack Web Developer, dedicated to crafting dynamic, user-friendly websites and applications. With a proven track record in WordPress customization, PHP, and modern frontend technologies, I combine development and QA expertise to deliver real-world solutions. My journey includes academic excellence (3× Vice Chancellor Awards) and research innovation in machine learning-based container code recognition.
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/junaetpro)  
+## 🧑‍💻 Experience
 
+**🔹 Project QA Executive – SEOPage1 (May 2025 – Present)**  
+- Ensure high-quality standards for foreign clients' projects through thorough manual testing, bug identification, and project monitoring.
+
+**🔹 Web Developer Intern – NextTech Ltd (Oct 2024 – Jan 2025)**  
+- Developed a real-time cryptocurrency platform with dynamic functionality using HTML, CSS, JS, PHP, MySQL, and APIs.
+
+**🔹 Academic Researcher – Green University of Bangladesh (Apr 2024 – Jan 2025)**  
+- Focused on AI-powered container code recognition using YOLO, ESRGAN, and OCR techniques.
+
+**🔹 Freelancer – Online Marketplace (Jan 2021 – Present)**  
+- Delivered diverse, responsive websites for clients worldwide on various freelancing platforms.
+
+---
+
+## 🛠️ Skills
+
+**Web Development:**  
+JavaScript, React, Next.js, PHP, WordPress, MySQL, HTML, CSS, Bootstrap, Python
+
+**Software & Tools:**  
+Photoshop, Figma, Adobe XD, AutoCAD, GitHub, MS Word, PowerPoint, Canva
+
+**Additional Areas:**  
+Data Structures, OOP, Software Engineering, Networking, Data Mining, OS
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **Portfolio Website** | Dynamic, responsive personal portfolio with advanced JS features & animations. | [Link](https://junaetpro.github.io/junaet/) |
+| **Education + E-commerce Site** | Combines online learning with product purchases. | [Link](https://junaetpro.github.io/Education_Website_with_Ecommerce/) |
+| **Crypto Service Platform** | Real-time crypto data platform with admin dashboard. | [Link](https://junaetpro.github.io/Crypto_Service/) |
+| **Secure Messaging** | Cybersecurity text encryption with custom algorithm. | [Link](https://junaetpro.github.io/cipher_text/) |
+| **PSD to HTML** | Pixel-perfect HTML conversion from PSD. | [Link](https://junaetpro.github.io/PSDtoHTML2/) |
+| **Sales Data Analysis** | Analyzed 5K+ records using Python & data visualization. | [Link](https://github.com/junaetpro/Super_shop_sales_data_analysis/blob/main/datamining_project_v2_0.ipynb) |
+
+> 🔧 Also built: 10+ WordPress Projects, 5+ React Apps, 20+ CSS & JS Experiments
+
+---
+
+## 🖼️ Project Gallery
+
+_Add your project screenshots here with markdown like below:_
+
+```markdown
+![Project 1](www.link_to_project_img_1)
+![Project 2](www.link_to_project_img_2)
