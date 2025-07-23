@@ -65,6 +65,15 @@ Here are some snapshots of my featured projects:
 
 
 
+## 📫 Contact Me
 
-🔗 [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7229937255375605760?)
+I'm always open to connecting, collaborating, or discussing exciting opportunities. Feel free to reach out through any of the platforms below:
+
+- 📧 **Email:** [junaetpro@gmail.com](mailto:junaetpro@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/junaetislam](https://www.linkedin.com/in/junaetislam/)  
+- 💻 **GitHub:** [github.com/junaetpro](https://github.com/junaetpro)  
+- 🌐 **Portfolio Website:** [junaetpro.github.io/junaet](https://junaetpro.github.io/junaet/)  
+- 📱 **Phone:** +880 1736 224711  
+- 📍 **Location:**  Dhaka, Bangladesh
+
 
