@@ -54,8 +54,8 @@ Data Structures, OOP, Software Engineering, Networking, Data Mining, OS
 Here are some snapshots of my featured projects:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGPUFLUkvvVaA/feedshare-shrink_800/feedshare-shrink_800/0/1724269767171?e=1756339200&v=beta&t=AXPslF2EtpN7EqDloE6W_lmNEwVKdIAak3gBp3sCslk" alt="Project Screenshot 1" width="300" style="margin-right: 10px;" />
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQELixf29g2I3w/feedshare-shrink_800/feedshare-shrink_800/0/1724269767862?e=1756339200&v=beta&t=EnSiX8WBs4z661WwsQV2wNdZBMpnftkl2fbwiwXIZok" alt="Project Screenshot 2" width="300" style="margin-left: 10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGPUFLUkvvVaA/feedshare-shrink_800/feedshare-shrink_800/0/1724269767171?e=1756339200&v=beta&t=AXPslF2EtpN7EqDloE6W_lmNEwVKdIAak3gBp3sCslk" alt="Project Screenshot 1" style="margin-right: 10px; height:100px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQELixf29g2I3w/feedshare-shrink_800/feedshare-shrink_800/0/1724269767862?e=1756339200&v=beta&t=EnSiX8WBs4z661WwsQV2wNdZBMpnftkl2fbwiwXIZok" alt="Project Screenshot 2" style="margin-left: 10px; height:100px; " />
 </p>
 
 🔗 [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7229937255375605760?)
