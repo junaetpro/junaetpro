@@ -1,4 +1,4 @@
-![Banner](www.link_banner)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHxji0uEp7WgQ/profile-displaybackgroundimage-shrink_350_1400/B4EZg2PD_jHoAY-/0/1753256582320?e=1756339200&v=beta&t=nirzu9F-EekHezzvwfNGS68I7Bcx43rQVqfSvhbuZWk)
 
 # 👋 Hi, I’m Junaet Islam
 
@@ -16,17 +16,9 @@ I'm a passionate and creative Full Stack Web Developer, dedicated to crafting dy
 ## 🧑‍💻 Experience
 
 **🔹 Project QA Executive – SEOPage1 (May 2025 – Present)**  
-- Ensure high-quality standards for foreign clients' projects through thorough manual testing, bug identification, and project monitoring.
-
 **🔹 Web Developer Intern – NextTech Ltd (Oct 2024 – Jan 2025)**  
-- Developed a real-time cryptocurrency platform with dynamic functionality using HTML, CSS, JS, PHP, MySQL, and APIs.
-
 **🔹 Academic Researcher – Green University of Bangladesh (Apr 2024 – Jan 2025)**  
-- Focused on AI-powered container code recognition using YOLO, ESRGAN, and OCR techniques.
-
 **🔹 Freelancer – Online Marketplace (Jan 2021 – Present)**  
-- Delivered diverse, responsive websites for clients worldwide on various freelancing platforms.
-
 ---
 
 ## 🛠️ Skills
