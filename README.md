@@ -51,8 +51,13 @@ Data Structures, OOP, Software Engineering, Networking, Data Mining, OS
 
 ## 🖼️ Project Gallery
 
-_Add your project screenshots here with markdown like below:_
+Here are some snapshots of my featured projects:
 
-```markdown
-![Project 1](www.link_to_project_img_1)
-![Project 2](www.link_to_project_img_2)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGPUFLUkvvVaA/feedshare-shrink_800/feedshare-shrink_800/0/1724269767171?e=1756339200&v=beta&t=AXPslF2EtpN7EqDloE6W_lmNEwVKdIAak3gBp3sCslk" alt="Project Screenshot 1" width="400"/>
+  <br><br>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQELixf29g2I3w/feedshare-shrink_800/feedshare-shrink_800/0/1724269767862?e=1756339200&v=beta&t=EnSiX8WBs4z661WwsQV2wNdZBMpnftkl2fbwiwXIZok" alt="Project Screenshot 2" width="400"/>
+</p>
+
+🔗 [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7229937255375605760?)
+
