@@ -59,7 +59,12 @@ Here are some snapshots of my featured projects:
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQEKrUyw-wrTfg/feedshare-shrink_800/feedshare-shrink_800/0/1723751366367?e=1756339200&v=beta&t=m6GcTdr8thDUAMIRZHydnW9X3uYYw_XhrKEKA4gK9sU" alt="Project Screenshot 2" style="margin-left: 20px; height:300px; " />
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQFEO9sDl0_JnQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723751238065?e=1756339200&v=beta&t=4oOhx1ut9BLJDDn8HCFUl9wYxY04SZ7u5muXXixE4NU" alt="Project Screenshot 2" style="margin-left: 20px; height:300px; " />
   <img src="https://media.licdn.com/dms/image/v2/D4E22AQGxfe0UNNLaqw/feedshare-shrink_800/feedshare-shrink_800/0/1723750932702?e=1756339200&v=beta&t=6u7zg0djuuKqlymWO2Ev8MgBfNR6ndTEfAirUg4Qk8c" alt="Project Screenshot 2" style="margin-left: 20px; height:300px; " />
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQFfegWEXcfSiw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723751165755?e=1756339200&v=beta&t=D8MRAA9d0yAqbFPaaPXBbzBbXAcSUzCcG-MnuMkHKpI" alt="Project Screenshot 2" style="margin-left: 20px; height:300px; " />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHctQV9spFFYA/feedshare-shrink_800/feedshare-shrink_800/0/1724269768994?e=1756339200&v=beta&t=SS5o8tHL-JDn6_7uYdLjGAPJDBfc1YwQ_oVACrp5jVQ" alt="Project Screenshot 2" style="margin-left: 20px; height:300px; " />
 </p>
+
+
+
 
 🔗 [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7229937255375605760?)
 
