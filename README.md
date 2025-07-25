@@ -1,6 +1,6 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHxji0uEp7WgQ/profile-displaybackgroundimage-shrink_350_1400/B4EZg2PD_jHoAY-/0/1753256582320?e=1756339200&v=beta&t=nirzu9F-EekHezzvwfNGS68I7Bcx43rQVqfSvhbuZWk)
 
-## 👋 Hi, I’m Junaet Islam
+# 👋 Hi, I’m Junaet Islam
 
 🎯 Full Stack Web Developer | 🎓 CSE Graduate | 🔍 Project QA Executive  
 📍 Based in Narayanganj, Dhaka | 📬 junaetpro@gmail.com
