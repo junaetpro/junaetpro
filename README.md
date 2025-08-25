@@ -20,7 +20,7 @@ I'm a passionate and creative Full Stack Web Developer, dedicated to crafting dy
 🔹 Academic Researcher – Green University of Bangladesh (Apr 2024 – Jan 2025)  
 🔹 Freelancer – Online Marketplace (Jan 2021 – Present)
 
----
+--- 
 ## 🛠️ Skills
 
 **Web Development:**  
