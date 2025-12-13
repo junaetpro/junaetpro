@@ -7,7 +7,7 @@
 
 ---
 
-## 💼 Professional Summary 
+## 💼 Professional Summary
 
 I'm a passionate and creative Full Stack Web Developer, dedicated to crafting dynamic, user-friendly websites and applications. With a proven track record in WordPress customization, PHP, and modern frontend technologies, I combine development and QA expertise to deliver real-world solutions. My journey includes academic excellence (3× Vice Chancellor Awards) and research innovation in machine learning-based container code recognition.
 
