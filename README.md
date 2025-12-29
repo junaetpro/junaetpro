@@ -5,7 +5,7 @@
 🎯 Full Stack Web Developer | 🎓 CSE Graduate | 🔍 Project QA Executive  
 📍 Based in Narayanganj, Dhaka | 📬 junaetpro@gmail.com 
  
---- 
+---
 
 ## 💼 Professional Summary 
 
