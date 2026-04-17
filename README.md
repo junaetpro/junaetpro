@@ -2,7 +2,7 @@
  
 # 👋 Hi, I’m Junaet Islam      
   
-🎯 Full Stack Web Developer | 🎓 CSE Graduate | 🔍 Project QA Executive 
+🎯 Full Stack Web Developer | 🎓 CSE Graduate | 🔍 Project QA Executive  
 📍 Based in Narayanganj, Dhaka | 📬 junaetpro@gmail.com   
    
 --- 
